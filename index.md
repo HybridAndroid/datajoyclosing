@@ -1,4 +1,4 @@
-## DataJoy has shut
+## DataJoy is now closed.
 
 We're sorry to announce that DataJoy shut down on 2nd Jan 2017.
 
