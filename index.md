@@ -3,7 +3,7 @@
 We're sorry to announce that DataJoy shut down on 2nd Jan 2017.
 
 ---
-Two years ago we started DataJoy with the aim of making data analysis with Python and R easier to learn, more accessible and collaborative. We're pleased that we've achieved some of these goals, but there are some fundamental reasons why we've decided not to continue DataJoy as a product.
+In 2015 we started DataJoy with the aim of making data analysis with Python and R easier to learn, more accessible and collaborative. We're pleased that we've achieved some of these goals, but there are some fundamental reasons why we've decided not to continue DataJoy as a product.
 
 DataJoy was a new tool in a space where there are a lot of good options, so the bar for success was high. While DataJoy has been useful to many individuals, we haven't seen strong growth in the popularity of DataJoy over the last 2 years. Many teachers have used DataJoy as an easy way to introduce their students to Python and R, but as a small company without external investment, this isn't a business model that we've been able to sustainably build on. Our technical team is also relatively small, with another larger product to support. Finding time for DataJoy was becoming increasingly hard, so we decided it was best to draw a clear line under DataJoy and close it down.
 
