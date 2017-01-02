@@ -1,6 +1,4 @@
----
-title: DataJoy is now closed
----
+
 
 
 ## DataJoy is now closed.
