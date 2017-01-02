@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## DataJoy has shut
 
-You can use the [editor on GitHub](https://github.com/sharelatex/datajoyclosing/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We're sorry to announce that DataJoy shut down on 2nd Jan 2017.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+Two years ago we started DataJoy with the aim of making data analysis with Python and R easier to learn, more accessible and collaborative. We're pleased that we've achieved some of these goals, but there are some fundamental reasons why we've decided not to continue DataJoy as a product.
 
-### Markdown
+DataJoy was a new tool in a space where there are a lot of good options, so the bar for success was high. While DataJoy has been useful to many individuals, we haven't seen strong growth in the popularity of DataJoy over the last 2 years. Many teachers have used DataJoy as an easy way to introduce their students to Python and R, but as a small company without external investment, this isn't a business model that we've been able to sustainably build on. Our technical team is also relatively small, with another larger product to support. Finding time for DataJoy was becoming increasingly hard, so we decided it was best to draw a clear line under DataJoy and close it down.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We know there are some people for whom DataJoy is very useful, which makes shutting it down a really hard decision. We certainly haven't taken it lightly, and we're truly personally sorry to be discontinuing DataJoy when it is still used by people. We still believe in the idea and vision, but our situation and timing means that we haven't been able to make DataJoy a success, sorry.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sharelatex/datajoyclosing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+James and Henry
+DataJoy Co-founders
